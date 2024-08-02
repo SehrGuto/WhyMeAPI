@@ -27,12 +27,6 @@ namespace WhyMe.Data
                 .HasOne(r => r.User)
                 .WithMany()
                 .HasForeignKey(r => r.UserId);
-
-            modelBuilder.Entity<Past>()
-                .HasMany(p => p.Results)
-                .WithOne(r => r.Past)
-                .HasForeignKey(r => r.PastId);
-
             modelBuilder.Entity<User>()
                 .HasIndex(u => u.Email)
                 .IsUnique();

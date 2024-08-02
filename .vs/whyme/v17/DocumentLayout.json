@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|solutionrelative:whyme\\data\\whymecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|c:\\users\\augusto pavani\\source\\repos\\whymeapi\\whyme\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|solutionrelative:whyme\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|c:\\users\\augusto pavani\\source\\repos\\whymeapi\\whyme\\models\\past.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|solutionrelative:whyme\\models\\past.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|c:\\users\\augusto pavani\\source\\repos\\whymeapi\\whyme\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|solutionrelative:whyme\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|c:\\users\\augusto pavani\\source\\repos\\whymeapi\\whyme\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|solutionrelative:whyme\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|c:\\users\\augusto pavani\\source\\repos\\whymeapi\\whyme\\controllers\\pastscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|solutionrelative:whyme\\controllers\\pastscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,35 +36,48 @@
               "RelativeDocumentMoniker": "whyme\\Data\\WhyMeContext.cs",
               "ToolTip": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\Data\\WhyMeContext.cs",
               "RelativeToolTip": "whyme\\Data\\WhyMeContext.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAiwCEAAAAuAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T16:31:28.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\Models\\User.cs",
-              "RelativeDocumentMoniker": "whyme\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\Models\\User.cs",
-              "RelativeToolTip": "whyme\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T16:28:07.402Z",
+              "WhenOpened": "2024-08-02T17:05:00.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "whyme\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "whyme\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAgwFIAAAAJAAAA",
+              "Title": "Past.cs",
+              "DocumentMoniker": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\Models\\Past.cs",
+              "RelativeDocumentMoniker": "whyme\\Models\\Past.cs",
+              "ToolTip": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\Models\\Past.cs",
+              "RelativeToolTip": "whyme\\Models\\Past.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T16:22:51.535Z",
+              "WhenOpened": "2024-08-02T17:04:45.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "whyme\\Models\\Result.cs",
+              "ToolTip": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\Models\\Result.cs",
+              "RelativeToolTip": "whyme\\Models\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:04:37.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PastsController.cs",
+              "DocumentMoniker": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\Controllers\\PastsController.cs",
+              "RelativeDocumentMoniker": "whyme\\Controllers\\PastsController.cs",
+              "ToolTip": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\Controllers\\PastsController.cs",
+              "RelativeToolTip": "whyme\\Controllers\\PastsController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:00:28.267Z",
               "EditorCaption": ""
             }
           ]
