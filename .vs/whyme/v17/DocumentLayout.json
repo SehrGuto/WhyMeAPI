@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|c:\\users\\augusto pavani\\source\\repos\\whymeapi\\whyme\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|solutionrelative:whyme\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|c:\\users\\augusto pavani\\source\\repos\\whymeapi\\whyme\\data\\whymecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|solutionrelative:whyme\\data\\whymecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "whyme\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "whyme\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwFQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:32:39.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ResultsController.cs",
               "DocumentMoniker": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\Controllers\\ResultsController.cs",
               "RelativeDocumentMoniker": "whyme\\Controllers\\ResultsController.cs",
@@ -34,12 +51,11 @@
               "RelativeToolTip": "whyme\\Controllers\\ResultsController.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T17:10:32.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T17:10:32.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WhyMeContext.cs",
               "DocumentMoniker": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\Data\\WhyMeContext.cs",
               "RelativeDocumentMoniker": "whyme\\Data\\WhyMeContext.cs",
@@ -52,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Result.cs",
               "DocumentMoniker": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\Models\\Result.cs",
               "RelativeDocumentMoniker": "whyme\\Models\\Result.cs",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "whyme\\Models\\Result.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T17:04:37.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T17:04:37.859Z"
             }
           ]
         }
