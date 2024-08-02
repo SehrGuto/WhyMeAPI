@@ -23,10 +23,10 @@ namespace WhyMe.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<User>()
-                .HasMany(u => u.Results)
-                .WithOne(r => r.User)
-                .HasForeignKey(r => r.UserId); 
+            modelBuilder.Entity<Result>()
+                .HasOne(r => r.User)
+                .WithMany()
+                .HasForeignKey(r => r.UserId);
 
             modelBuilder.Entity<Past>()
                 .HasMany(p => p.Results)
