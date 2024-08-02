@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Augusto Pavani\\source\\repos\\whyme\\whyme\\WhyMe.csproj": {}
+    "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\WhyMe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Augusto Pavani\\source\\repos\\whyme\\whyme\\WhyMe.csproj": {
+    "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\WhyMe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Augusto Pavani\\source\\repos\\whyme\\whyme\\WhyMe.csproj",
+        "projectUniqueName": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\WhyMe.csproj",
         "projectName": "WhyMe",
-        "projectPath": "C:\\Users\\Augusto Pavani\\source\\repos\\whyme\\whyme\\WhyMe.csproj",
+        "projectPath": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\WhyMe.csproj",
         "packagesPath": "C:\\Users\\Augusto Pavani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Augusto Pavani\\source\\repos\\whyme\\whyme\\obj\\",
+        "outputPath": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Augusto Pavani\\AppData\\Roaming\\NuGet\\NuGet.Config",

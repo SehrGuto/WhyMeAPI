@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|c:\\users\\augusto pavani\\source\\repos\\whymeapi\\whyme\\scripts\\transactions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|solutionrelative:whyme\\scripts\\transactions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|c:\\users\\augusto pavani\\source\\repos\\whymeapi\\whyme\\scripts\\create_tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|solutionrelative:whyme\\scripts\\create_tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|c:\\users\\augusto pavani\\source\\repos\\whymeapi\\whyme\\scripts\\transactions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|solutionrelative:whyme\\scripts\\transactions.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|c:\\users\\augusto pavani\\source\\repos\\whymeapi\\whyme\\scripts\\create_tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{88C6BA53-7887-4569-8784-418868683D1B}|whyme\\WhyMe.csproj|solutionrelative:whyme\\scripts\\create_tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "create_tables.sql ",
+              "DocumentMoniker": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\Scripts\\create_tables.sql",
+              "RelativeDocumentMoniker": "whyme\\Scripts\\create_tables.sql",
+              "ToolTip": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\Scripts\\create_tables.sql",
+              "RelativeToolTip": "whyme\\Scripts\\create_tables.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-02T16:14:40.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "transactions.sql ",
+              "DocumentMoniker": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\Scripts\\transactions.sql",
+              "RelativeDocumentMoniker": "whyme\\Scripts\\transactions.sql",
+              "ToolTip": "C:\\Users\\Augusto Pavani\\source\\repos\\WhyMeAPI\\whyme\\Scripts\\transactions.sql",
+              "RelativeToolTip": "whyme\\Scripts\\transactions.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-02T16:14:24.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
