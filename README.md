@@ -34,7 +34,12 @@
 1. Clona ese repositorio.
 2. Abre el proyecto en Microsoft Visual Studio.
 3. Y listo! hacer click en "'Run'"
+4. Se abrirá una nueva pestaña del browser donde será posible hacer tests de los features
 
 ## RoadMap
-Pendiente por desarrollar el frontend en donde el usuario pueda de forma intuitiva ingresar datos y recibir la respuesta
+- Pendiente por desarrollar el frontend en donde el usuario pueda de forma intuitiva ingresar datos y recibir la respuesta
+- Pendiente de agregar más idiomas
+- Pendiente de agregar un trigger para enviar correos a las personas registradas ofreciendo los servicios de arreglo Kármico (cobrar)
+- Instalacion de la pasarela de pagos en linea
 
+## Gracias por la oportunidad
