@@ -21,7 +21,7 @@
 ## Estructura de la Base de datos
 [![Db-diagram.jpg](https://i.postimg.cc/D0Xcw1kZ/Db-diagram.jpg)](https://postimg.cc/9wc9xRf5)
 
-- Si desea vizualizar la base de datos de forma grafica la encuentras en la raíz del proyecto >WhyMe.db
+- Si desea vizualizar la base de datos de forma grafica la encuentras en la raíz del proyecto > WhyMe.db
 - Puedes abrir el archivo usando DB Browser
 - En la carpeta Scripts dentro del proyecto encuentras los SQL querys para crear la base de datos (no es necesario), para agregar los valores (no es necesario) y realizar las consultas (select/union/join/etc).
 
