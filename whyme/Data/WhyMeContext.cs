@@ -23,10 +23,6 @@ namespace WhyMe.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Result>()
-                .HasOne(r => r.User)
-                .WithMany()
-                .HasForeignKey(r => r.UserId);
             modelBuilder.Entity<User>()
                 .HasIndex(u => u.Email)
                 .IsUnique();
