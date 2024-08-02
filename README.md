@@ -17,7 +17,7 @@
 - ASP .NET core
 
 ## Estructura de la Base de datos
-![whyme database structure](https://ibb.co/jV1qSX1)
+[![Db-diagram.jpg](https://i.postimg.cc/D0Xcw1kZ/Db-diagram.jpg)](https://postimg.cc/9wc9xRf5)
 
 ## Requisitos
 - .Net core 8.0
